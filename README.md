@@ -7,15 +7,16 @@
   💼 <a href="mailto:ashwinram@uchicago.edu">Email</a>
 </p>
 
----
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&color=2A8EFF&width=450&lines=Solving+real-world+problems+with+data;Building+scalable+ML+systems;Always+learning+something+new" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  [![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=readthedocs)](https://github.com/ashhhwin/ashhhwin/blob/main/Ashwin_Ram_Venkataraman-Resume.pdf)
+  <a href="https://github.com/ashhhwin/ashhhwin/blob/main/Ashwin_Ram_Venkataraman-Resume.pdf">
+    <img src="https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=readthedocs" alt="Resume Badge" />
+  </a>
 </p>
+
 ---
 
 ## 🧠 About Me
@@ -41,9 +42,12 @@ I'm curious, hands-on, and always looking for ways to improve my craft. Whether 
 
 Let’s connect!
 
+---
+
 ## 🚀 My Tech Arsenal
 
 ### 🧰 Languages, Tools & Frameworks
+
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
 ![R](https://img.shields.io/badge/-R-276DC3?style=flat&logo=r)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql)
@@ -99,8 +103,6 @@ I'm always open to collaboration, mentorship, and new opportunities in:
     <img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
-
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=2A8EFF&height=100&section=footer"/>
