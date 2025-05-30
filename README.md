@@ -1,94 +1,167 @@
 <h1 align="center">Ashwin Ram</h1>
 <p align="center">
-  Data Scientist · Applied Machine Learning · Data Engineering · Generative AI  
+  <strong>Applied Data Science | Machine Learning | Generative AI | Statistical Modeling</strong>
 </p>
 
 <p align="center">
-  <a href="mailto:ashwinram@uchicago.edu">ashwinram@uchicago.edu</a> • 
-  <a href="https://www.linkedin.com/in/ashwinramv/">LinkedIn</a> • 
-  <a href="https://github.com/ashhhwin">GitHub</a> • 
-  <a href="https://github.com/ashhhwin/ashhhwin/blob/main/Ashwin_Ram_Venkataraman-Resume.pdf">Resume (PDF)</a>
+  📍 Chicago, IL · ✉️ <a href="mailto:ashwinram@uchicago.edu">ashwinram@uchicago.edu</a> · 
+  🌐 <a href="https://www.linkedin.com/in/ashwinramv/">LinkedIn</a> · 
+  💻 <a href="https://github.com/ashhhwin">GitHub</a>
 </p>
 
-<hr/>
 
-<!-- Subtle animated headline -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0366D6&center=true&vCenter=true&width=600&lines=Bridging+Statistical+Thinking+and+Machine+Learning;Building+Reliable%2C+Scalable+Data+Science+Pipelines" alt="typing headline">
-</p>
+## 👋 Hello there!
+
+I’m Ashwin — currently pursuing my Master's in Applied Data Science at the University of Chicago. I've completed internships at **Evoke Technologies**, **Prodapt**, and **Aspire Systems**, working on projects in financial forecasting, anomaly detection, generative AI, and healthcare analytics.
+
+I’m drawn to problems where data is messy, decisions matter, and clear answers are rare. I focus on building models that are accurate, interpretable, and actually usable — not just academically impressive.
 
 ---
 
-## About Me
+## 🔍 What I Do
 
-I’m a graduate student in Applied Data Science at the University of Chicago, with a foundation in computer science and hands-on experience solving business problems through data. My work spans capital markets, telecom networks, and retail operations, with a focus on:
-
-- **End-to-end ML pipelines** from data ingestion to deployment  
-- **Applied statistical modeling** with strong foundations in inference and Bayesian methods  
-- **NLP and forecasting models** for financial and operational decision-making  
-- **Anomaly detection and drift monitoring** for production reliability  
-- **Model interpretability and risk scoring** to support business strategy  
-
-I aim to combine **engineering rigor** with **analytical clarity** to create models that are both scalable and explainable.
+- 🧠 Time Series Forecasting – GRUs, rolling windows, signal smoothing  
+- 🧮 Deep Learning – CNNs for vision, RNNs for sequence, Transformers for embeddings  
+- 📊 Statistical Modeling – Logistic Regression, GLMs, Bayesian Inference, Survival Models  
+- ✍️ Generative AI & NLP – Prompt Engineering, LangChain, LLM pipelines  
+- 📉 Explainability – SHAP, PDP, ICE, Confidence Bands  
+- 🧾 SQL & Feature Engineering – Joins, Lags, Cohorts, Windowing
 
 ---
 
-## Featured Projects
+## 🧪 Projects
 
-| Project | Description |
-|--------|-------------|
-| **Financial Alpha from Text** | Built a multi-source pipeline integrating equity data, BERT-based sentiment, and GRU forecasting models. Enhanced directional accuracy and alpha signal quality. |
-| **Network Anomaly Detection** | Designed a real-time anomaly detection pipeline using Autoencoders, Isolation Forests, and drift metrics like KL-divergence. Used in a high-throughput telecom setting. |
-| **Generative YouTube AI Agents** | Developed a multi-agent generative system for content optimization using LLMs for script, title, and thumbnail generation. Evaluated using Bayesian A/B testing. |
-| **Credit Risk Scoring & Explainability** | Built interpretable credit scoring models with SHAP and PDP analysis. Created dashboard interfaces for financial decision-makers. |
-| **Readmission Risk Analysis** | Applied statistical testing, survival models, and classification to healthcare data. Designed tools for patient stratification and resource planning. |
+<table>
+<tr>
+  <td width="50%">
+
+  ### 🔎 Network Anomaly Detection  
+  **Domain:** Telecom  
+  **Tech:** Isolation Forest, DBSCAN, Autoencoders, KL Divergence, GCP  
+  **Company:** Prodapt  
+  <a href="https://github.com/ashhhwin/telecom-anomaly-detection">🔗 GitHub</a>  
+  Real-time drift-aware anomaly pipeline monitoring 36K+ network events/hour.
+
+  </td>
+  
+  <td width="50%">
+
+  ### 🤖 Agentic YouTube GenAI  
+  **Domain:** Generative AI  
+  **Tech:** LangChain, LLM APIs, Prompt Engineering, Bayesian A/B  
+  **Type:** Personal Project  
+  <a href="https://github.com/ashhhwin/youtube-genai-agents">🔗 GitHub</a>  
+  Multi-agent pipeline generating YouTube metadata (titles, scripts, thumbnails).
+
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+
+  ### 📉 Shelf Space Detection  
+  **Domain:** Retail Analytics  
+  **Tech:** YOLOv5, Data Augmentation, SQL, Market Basket  
+  **Company:** Aspire Systems  
+  Internal tool for detecting shelf voids and optimizing restocking.
+
+  </td>
+
+  <td width="50%">
+
+  ### 💳 Credit Risk Scoring  
+  **Domain:** Finance / Risk  
+  **Tech:** XGBoost, SHAP, PDP, Streamlit  
+  **Type:** Personal Project  
+  <a href="https://github.com/ashhhwin/credit-risk-shap-xgboost">🔗 GitHub</a>  
+  Interpretable credit scoring dashboard with segment-based thresholds.
+
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+
+  ### 🧠 Financial Sentiment Forecasting  
+  **Domain:** Capital Markets  
+  **Tech:** GRU, BERT, Time Series, PyTorch  
+  **Company:** Evoke Technologies  
+  Combined earnings call sentiment with GRUs to predict stock movement.
+
+  </td>
+
+  <td width="50%">
+
+  ### 📈 Forecasting from News  
+  **Domain:** FinTech / NLP  
+  **Tech:** BERT, GRU, PyTorch  
+  **Type:** Academic Project  
+  <a href="https://github.com/ashhhwin/sentiment-financial-forecasting">🔗 GitHub</a>  
+  Forecasted short-term market direction using sentiment-aligned time series.
+
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+
+  ### 🏥 Readmission Risk  
+  **Domain:** Healthcare  
+  **Tech:** Survival Models, SHAP, Logistic Regression, Tableau  
+  **Type:** Academic Project  
+  <a href="https://github.com/ashhhwin/hospital-readmission-risk">🔗 GitHub</a>  
+  Built a tool to predict and visualize 30-day hospital readmission risk.
+
+  </td>
+
+  <td width="50%">
+
+  <!-- Placeholder for future project or empty -->
+  </td>
+</tr>
+</table>
+
+<h2>⚙️ Tech Stack</h2>
+
+<table>
+<tr>
+  <td><b>Languages & Scripting</b><br>Python, SQL, R, Bash, Markdown, LaTeX</td>
+  <td><b>ML & Deep Learning</b><br>scikit-learn, XGBoost, LightGBM, CatBoost, PyTorch, TensorFlow, Keras, YOLOv5, Lifelines, Statsmodels</td>
+</tr>
+
+<tr>
+  <td><b>NLP & GenAI</b><br>HuggingFace, LangChain, OpenAI API, Gemini, Vertex AI, Prompt Engineering, SentenceTransformers, Vector Embeddings, RAG, spaCy, NLTK, Gensim</td>
+  <td><b>Time Series & Forecasting</b><br>GRU, RNN, ARIMA, Prophet, Exponential Smoothing, Rolling Windows, Darts</td>
+</tr>
+
+<tr>
+  <td><b>Explainability & Monitoring</b><br>SHAP, LIME, PDP, ICE, Captum, Drift Detection, MLflow, Confidence Intervals</td>
+  <td><b>Visualization & Dashboards</b><br>Streamlit, Plotly, Altair, Seaborn, Tableau, Power BI, Dash, Looker, Excel (DAX, Power Query)</td>
+</tr>
+
+<tr>
+  <td><b>Cloud & Infra</b><br>Google Cloud (Vertex AI, BigQuery, GCE), AWS (S3, EC2, Lambda)</td>
+  <td><b>Dev Tools</b><br>Docker, Git, GitHub Actions, VS Code, Jupyter Lab, Google Colab</td>
+</tr>
+</table>
+
+## 📈 KPI Monitoring & Analytics
+
+I build dashboards to track model and business performance:
+- Model precision/recall over time  
+- Feature drift (KL/JS divergence)  
+- Confidence interval bandwidth shifts  
+- Uplift in A/B tested GenAI interventions  
+- Time-to-decision improvements from ML recommendations
 
 ---
 
-## Skills Overview
+## 🤝 Contact
 
-### Data Science & ML
-- Supervised Learning · Time Series · NLP · Dimensionality Reduction  
-- Model Explainability · Feature Engineering · Forecasting · Generative AI  
+If you're working on data science with a focus on decisions, uncertainty, or GenAI — feel free to reach out.
 
-### Statistical & Analytical
-- Bayesian Inference · Hypothesis Testing · A/B Testing · Sensitivity Analysis  
-- Probability Theory · Causal Inference · Optimization · Uncertainty Quantification  
-
-### Engineering & MLOps
-- Data Pipelines (ETL, Streaming) · Docker · MLflow · Model Monitoring  
-- GCP · AWS · Airflow · Kafka · Spark · Hive  
-
-### Visualization & Business Insight
-- Tableau · Power BI · Plotly · Dashboarding for Operations and Finance  
-- Customer Segmentation · Behavioral Analytics · KPI Design  
+📬 ashwinram@uchicago.edu  
+🌐 [LinkedIn](https://www.linkedin.com/in/ashwinramv/)  
+💻 [GitHub](https://github.com/ashhhwin)
 
 ---
-
-## Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,pytorch,sklearn,docker,aws,gcp,spark,kafka,git,linux,sql,postgresql" />
-</p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=tableau,powerbi,jupyter,vscode,streamlit" />
-</p>
-
----
-
-## Contact
-
-For collaboration, research, or opportunities, feel free to reach out.
-
-<p align="center">
-  <a href="mailto:ashwinram@uchicago.edu">ashwinram@uchicago.edu</a> • 
-  <a href="https://www.linkedin.com/in/ashwinramv/">LinkedIn</a> • 
-  <a href="https://github.com/ashhhwin">GitHub</a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366D6&height=100&section=footer"/>
-</p>
